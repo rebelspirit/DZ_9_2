@@ -1,0 +1,44 @@
+.logo {
+	width: 100%;
+	height: 75px;
+	text-align: center;
+}
+h1.sitename {
+	font-size: 25px;
+}
+nav.menu {
+	width: 100%;
+	height: 861px;
+	color: black;
+	text-align: center;
+}
+.flex{
+	display: flex;
+}
+.justify-content-sb {
+	justify-content: space-between; 
+}
+.justify-content-sa {
+	justify-content: space-around; 
+
+}
+button.item {
+	width: 100%;
+	height: 35px;
+	margin-top: 15px;
+}
+a.link {
+	color: black;
+	margin-top: 65px;
+	margin-left: 55px;
+}
+.image	{
+	width: 100%;
+	height: 150px;
+	margin-top: 22px;
+	text-align: center;
+}
+h2.heading {
+	font-size: 18px;
+	font-weight: bold;
+}
